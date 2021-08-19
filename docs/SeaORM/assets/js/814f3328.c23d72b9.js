@@ -1,0 +1,1 @@
+(self.webpackChunksea_orm=self.webpackChunksea_orm||[]).push([[2535],{6353:function(e){"use strict";e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Hello World","permalink":"/SeaORM/blog/2021-08-07-hello-world"},{"title":"Welcome to SeaORM","permalink":"/SeaORM/blog/2021-07-01-welcome"}]}')}}]);
