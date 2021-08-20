@@ -6,7 +6,7 @@ Each table corresponds to an [`Entity`](/docs/generate-entity/entity-structure#e
 
 The `Entity` trait provides an API for you to inspect it's properties ([`Column`](/docs/generate-entity/entity-structure#column), [`Relation`](/docs/generate-entity/entity-structure#relation) and [`PrimaryKey`](/docs/generate-entity/entity-structure#primary-key)) at runtime.
 
-Each table have multiple columns, and those are called `attribute`.
+Each table has multiple columns, and those are called `attribute`.
 
 These attributes and their values are grouped in a Rust struct so that you can manipulate them, and we call them [`Model`](/docs/generate-entity/entity-structure#model).
 
